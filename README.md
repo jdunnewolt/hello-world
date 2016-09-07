@@ -1,3 +1,3 @@
 # hello-world
-Just an other repository
-i am trying to learn GidHub
+Just an other repository. 
+I am trying to learn GidHub
